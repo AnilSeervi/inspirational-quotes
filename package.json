@@ -1,0 +1,31 @@
+{
+	"name": "@anilseervi/inspirational-quotes",
+	"version": "0.0.1",
+	"description": "Inspirational news!!!",
+	"main": "src/index.js",
+	"private": false,
+	"scripts": {
+		"test": "node tests/test.js",
+		"lint": "eslint .",
+		"pret": "prettier -c .",
+		"prepublishOnly": "yarn pret && yarn lint && yarn test"
+	},
+	"keywords": [
+		"inspiration",
+		"quotes",
+		"anilseervi",
+		"inspirations-quotes"
+	],
+	"author": "Anil Seervi <dev.anilseervi@gmail.com> (https://github.com/AnilSeervi)",
+	"license": "MIT",
+	"homepage": "https://github.com/AnilSeervi/inspirational-quotes",
+	"repository": "AnilSeervi/inspirational-quotes",
+	"readme": "README.md",
+	"bugs": {
+		"url": "https://github.com/AnilSeervi/inspirational-quotes/issues"
+	},
+	"devDependencies": {
+		"eslint": "^8.6.0",
+		"prettier": "^2.5.1"
+	}
+}
