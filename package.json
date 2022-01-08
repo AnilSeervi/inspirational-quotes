@@ -18,9 +18,8 @@
 	],
 	"author": "Anil Seervi <dev.anilseervi@gmail.com> (https://github.com/AnilSeervi)",
 	"license": "MIT",
-	"homepage": "https://github.com/AnilSeervi/inspirational-quotes",
+	"homepage": "https://github.com/AnilSeervi/inspirational-quotes#readme",
 	"repository": "AnilSeervi/inspirational-quotes",
-	"readme": "README.md",
 	"bugs": {
 		"url": "https://github.com/AnilSeervi/inspirational-quotes/issues"
 	},
