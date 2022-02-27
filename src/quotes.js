@@ -126,6 +126,106 @@ const quotes = [
 		quote: `If you don’t take money, they can’t tell you what to do.`,
 		author: `Bill Cunningham`,
 	},
+	{
+		quote: `You won’t know how valuable your health is until you’re fighting for it, so fight for it before you have to.`,
+		author: `Unknown`,
+	},
+	{
+		quote: `The world starts and ends entirely inside your mind. No matter how rich, pretty, famous or successful you become, you won’t enjoy any of it if you get there at the expense of your mental health.`,
+		author: `Unknown`,
+	},
+	{
+		quote: `If you keep one hand on your past and one hand on your future, you’ll never have either. To embrace tomorrow, you must let go of yesterday.`,
+		author: `Unknown`,
+	},
+	{
+		quote: `That lesson will repeat itself until you learn it.`,
+		author: `Unknown`,
+	},
+	{
+		quote: `Sometimes saying "goodbye" doesn’t mean you don’t love something, it just means you love yourself too.`,
+		author: `Unknown`,
+	},
+	{
+		quote: `Self-awareness is realising that there is no opponent - you’re fighting against yourself.`,
+		author: `Unknown`,
+	},
+	{
+		quote: `Life is not tiring. Wanting life to be a certain way but no having that confidence to make it that way, is tiring.`,
+		author: `Unknown`,
+	},
+	{
+		quote: `Feeling sad after making a decision, doesn’t mean it was the wrong decision.`,
+		author: `Unknown`,
+	},
+	{
+		quote: `If you don’t have confidence, you’ll always find a way not to win.`,
+		author: `Carl Lewis`,
+	},
+	{
+		quote: `If you widh to be a writer, write.`,
+		author: `Epictetus`,
+	},
+	{
+		quote: `Whatever you’re thinking, think bigger.`,
+		author: `Tony Hsieh`,
+	},
+	{
+		quote: `I think the thing to do is to enjoy the ride while you’re on it.`,
+		author: `Johnny Depp`,
+	},
+	{
+		quote: `If there is one thing that I’ve learned in my career, it is to do more of what’s working, and less of what’s not.`,
+		author: `Jimmy Wales`,
+	},
+	{
+		quote: `The way to get started is to quit talking and begin doing.`,
+		author: `Walt Disney`,
+	},
+	{
+		quote: `If you want to conquer fear, don’t sit home and think about it. Go out and get busy.`,
+		author: `Dale Carnegie`,
+	},
+	{
+		quote: `Never spend it before you have it.`,
+		author: `Thomas Jefferson`,
+	},
+	{
+		quote: `Not all readers are leaders, but all leaders are readers.`,
+		author: `Harry Truman`,
+	},
+	{
+		quote: `Read the best books first, or you may not have a chance to read them at all.`,
+		author: `Henry David Thoream`,
+	},
+	{
+		quote: `He that loves reading has everything within his reach.`,
+		author: `Willian Godwin`,
+	},
+	{
+		quote: `Read. Read. Read. Just don’t read one type of book. Read different books by various authors so that you develop different style.`,
+		author: `R.L. Stine`,
+	},
+	{
+		quote: `In the case of good books, the point is not to see how many of them you can get through, but rather how many can get through to you.`,
+		author: `Mortimer J. Adler`,
+	},
+	{
+		quote: `Books are mirrors: you only see in them what you already have inside you.`,
+		author: `Carlos Ruiz Zafon`,
+	},
+	{
+		quote: `No entertainment is so cheap as reading, nor any pleasure so lasting.`,
+		author: `Mary Wortley Montagu`,
+	},
+	{
+		quote: `The man who does not read good books has no advantage over the man who can’t read them!`,
+		author: `Mark Twain`,
+	},
+	{
+		quote: `Thinking is the hardest work there is, which is the probable reason why so few people engage in it.`,
+		author: `Henry Ford`,
+	},
 ]
 
 module.exports = quotes
