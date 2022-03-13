@@ -226,6 +226,18 @@ const quotes = [
 		quote: `Thinking is the hardest work there is, which is the probable reason why so few people engage in it.`,
 		author: `Henry Ford`,
 	},
+	{
+		quote: `People do not decide their futures, they decide their habits and their habits decide their futures.`,
+		author: `F.M. Alexander`,
+	},
+	{
+		quote: `Nobody who ever gave his best regretted it.`,
+		author: `George Halas`,
+	},
+	{
+		quote: `Each time a man stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, he sends forth a tiny ripple of hope.`,
+		author: `Call of Duty: Modern Warfare`,
+	},
 ]
 
 module.exports = quotes
