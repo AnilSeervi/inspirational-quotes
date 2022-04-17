@@ -71,7 +71,7 @@ const quotes = [
 		author: `Unknown`,
 	},
 	{
-		quote: `Those who so not want to imitate anything, produce nothing.`,
+		quote: `Those who do not want to imitate anything, produce nothing.`,
 		author: `Salvador Dalí`,
 	},
 	{
