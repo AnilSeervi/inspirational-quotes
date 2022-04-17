@@ -1,6 +1,6 @@
 {
 	"name": "@anilseervi/inspirational-quotes",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Inspirational news!!!",
 	"main": "src/index.js",
 	"private": false,
