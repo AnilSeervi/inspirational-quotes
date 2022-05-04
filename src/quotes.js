@@ -163,7 +163,7 @@ const quotes = [
 		author: `Carl Lewis`,
 	},
 	{
-		quote: `If you widh to be a writer, write.`,
+		quote: `If you wish to be a writer, write.`,
 		author: `Epictetus`,
 	},
 	{
