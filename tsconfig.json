@@ -7,7 +7,7 @@
 		"esModuleInterop": true,
 		"strict": true,
 		"noImplicitAny": true,
-		"rootDir": "/",
+		"rootDir": ".",
 		"allowJs": false,
 		"noEmitOnError": true,
 		"outDir": "./dist"

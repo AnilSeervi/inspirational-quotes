@@ -2,8 +2,8 @@
 	"name": "@anilseervi/inspirational-quotes",
 	"version": "1.0.0",
 	"description": "Inspirational news!!!",
-	"main": "dist/index.js",
-	"types": "dist/index.d.ts",
+	"main": "dist/src/index.js",
+	"types": "dist/src/index.d.ts",
 	"private": false,
 	"files": [
 		"dist/**"
@@ -13,7 +13,7 @@
 		"test": "vitest --run",
 		"lint": "eslint .",
 		"pret": "prettier -c .",
-		"prepublishOnly": "yarn pret && yarn lint && yarn test"
+		"prepublishOnly": "yarn pret && yarn lint && yarn test && tsc"
 	},
 	"keywords": [
 		"inspiration",
