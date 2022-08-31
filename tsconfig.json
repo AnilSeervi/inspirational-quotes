@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"declaration": true,
+		"removeComments": true,
+		"forceConsistentCasingInFileNames": true,
+		"esModuleInterop": true,
+		"strict": true,
+		"noImplicitAny": true,
+		"rootDir": "/",
+		"allowJs": false,
+		"noEmitOnError": true,
+		"outDir": "./dist"
+	},
+	"include": ["src", "tests"],
+	"exclude": ["node_modules", "/dist"]
+}

@@ -2,10 +2,15 @@
 	"name": "@anilseervi/inspirational-quotes",
 	"version": "0.0.5",
 	"description": "Inspirational news!!!",
-	"main": "src/index.js",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
 	"private": false,
+	"files": [
+		"dist/**"
+	],
 	"scripts": {
-		"test": "node tests/test.js",
+		"build": "yarn test && tsc",
+		"test": "vitest --run",
 		"lint": "eslint .",
 		"pret": "prettier -c .",
 		"prepublishOnly": "yarn pret && yarn lint && yarn test"
@@ -24,7 +29,12 @@
 		"url": "https://github.com/AnilSeervi/inspirational-quotes/issues"
 	},
 	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.35.1",
+		"@typescript-eslint/parser": "^5.35.1",
 		"eslint": "^8.6.0",
-		"prettier": "^2.5.1"
+		"eslint-config-prettier": "^8.5.0",
+		"prettier": "^2.5.1",
+		"typescript": "^4.8.2",
+		"vitest": "^0.22.1"
 	}
 }

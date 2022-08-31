@@ -1,7 +1,9 @@
 // some good-to-have rules
-// try to use right single quotation mark `’` (String.fromCharCode(0x2019)), not apostrophe `'` (String.fromCharCode(0x27))
+// try to use right single quotation mark `’`(\u2019) (String.fromCharCode(0x2019)), not apostrophe `'` (String.fromCharCode(0x27))
 // put those strings in backticks || linter gon complain
 // source?: String , is optional but helpful.
+
+import { Quotes } from './types'
 
 /* Syntax
 {
@@ -11,7 +13,7 @@
 }
 */
 
-const quotes = [
+export const quotes: Quotes[] = [
 	{
 		quote: `Amateurs know that contributing something is better than contributing nothing.`,
 		author: `Austin Kleon`,
@@ -239,5 +241,3 @@ const quotes = [
 		author: `Call of Duty: Modern Warfare`,
 	},
 ]
-
-module.exports = quotes
