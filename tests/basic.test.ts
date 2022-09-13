@@ -12,6 +12,13 @@ describe(`All Quotes`, () => {
 			assert(quote.author)
 		}
 	})
+
+	test(`Test 02: All Quotes end with a period`, () => {
+		const allQuotes = getAll()
+		for (const quote of allQuotes) {
+			assert(quote.quote.endsWith(`.`) || quote.quote.endsWith(`!`))
+		}
+	})
 })
 
 describe(`Random Quote`, () => {

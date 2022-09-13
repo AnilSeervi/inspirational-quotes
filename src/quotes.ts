@@ -1,6 +1,7 @@
 // some good-to-have rules
 // try to use right single quotation mark `’`(\u2019) (String.fromCharCode(0x2019)), not apostrophe `'` (String.fromCharCode(0x27))
 // put those strings in backticks || linter gon complain
+// Use a period `.` at the end of the sentence || test gon fail
 // source?: String , is optional but helpful.
 
 import { Quotes } from './types'
@@ -20,7 +21,7 @@ export const quotes: Quotes[] = [
 		source: `Show Your Work!`,
 	},
 	{
-		quote: `Carving out a space for yourself online, somewhere where you can express yourself and share your work, is still one of the best possible investments you can make with your time`,
+		quote: `Carving out a space for yourself online, somewhere where you can express yourself and share your work, is still one of the best possible investments you can make with your time.`,
 		author: `Austin Kleon`,
 		source: `Show Your Work!`,
 	},
@@ -239,5 +240,25 @@ export const quotes: Quotes[] = [
 	{
 		quote: `Each time a man stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, he sends forth a tiny ripple of hope.`,
 		author: `Call of Duty: Modern Warfare`,
+	},
+	{
+		quote: `We are what we repeatedly do. Excellence, then, is not an act, but a habit.`,
+		author: `Aristotle`,
+		source: `Ikigai : The Japanese Secret to a Long and Happy Life`,
+	},
+	{
+		quote: `Put your hand on a hot stove for a minute, and it seems like an hour. Sit with a pretty girl for an hour and it seems like a minute. That is relativity.`,
+		author: `Albert Einstein`,
+		source: `Ikigai : The Japanese Secret to a Long and Happy Life`,
+	},
+	{
+		quote: `A happy man is too satisfied with the present to dwell on the future.`,
+		author: `Albert Einstein`,
+		source: `Ikigai : The Japanese Secret to a Long and Happy Life`,
+	},
+	{
+		quote: `The state in which people are so involved in an activity that nothing else seems to matter; the experience itself is so enjoyable that people will do it even at great cost, for the sheer sake of doing it.`,
+		author: `Mihaly Csikszentmihalyi`,
+		source: `Flow : The Psychology of Optimal Experience`,
 	},
 ]
