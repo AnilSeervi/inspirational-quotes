@@ -4,7 +4,7 @@
 // Use a period `.` at the end of the sentence || test gon fail
 // source?: String , is optional but helpful.
 
-import { Quotes } from './types'
+import { Quote } from './types'
 
 /* Syntax
 {
@@ -14,7 +14,7 @@ import { Quotes } from './types'
 }
 */
 
-export const quotes: Quotes[] = [
+export const quotes: Quote[] = [
 	{
 		quote: `Amateurs know that contributing something is better than contributing nothing.`,
 		author: `Austin Kleon`,
@@ -255,10 +255,10 @@ export const quotes: Quotes[] = [
 		quote: `A happy man is too satisfied with the present to dwell on the future.`,
 		author: `Albert Einstein`,
 		source: `Ikigai : The Japanese Secret to a Long and Happy Life`,
-	},
+	}, // @anilseervi
 	{
 		quote: `The state in which people are so involved in an activity that nothing else seems to matter; the experience itself is so enjoyable that people will do it even at great cost, for the sheer sake of doing it.`,
 		author: `Mihaly Csikszentmihalyi`,
 		source: `Flow : The Psychology of Optimal Experience`,
-	},
+	}, // @anilseervi
 ]

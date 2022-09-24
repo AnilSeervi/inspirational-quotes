@@ -1,7 +1,7 @@
 import { quotes } from './quotes'
-import { Quotes } from './types'
+import { Quote } from './types'
 
-export const getAll = (): Quotes[] => quotes
+export const getAll = (): Quote[] => quotes
 
-export const getRandom = (): Quotes =>
+export const getRandom = (): Quote =>
 	quotes[Math.round(Math.random() * (quotes.length - 1))]
