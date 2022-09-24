@@ -1,6 +1,7 @@
 {
 	"compilerOptions": {
-		"target": "ES5",
+		"target": "ESNext",
+		"moduleResolution": "Node",
 		"declaration": true,
 		"removeComments": false,
 		"forceConsistentCasingInFileNames": true,

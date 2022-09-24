@@ -58,6 +58,7 @@ yarn build
 - The `author` should be the name of the person who said the quote.
 - The `quote` should end with a period(`.`) or exclamation(`!`) mark.
 - The `source` should be the name of the book, article, video, etc. from where the quote is taken. If the quote is not taken from any source or you don't remeber the source, then the `source` key can be omitted.
+- Check if the quote is already present in the `quotes` array. If it is, then don't add it again.
 
 > Note: If any of the above rules are not followed, the tests will fail.
 >
