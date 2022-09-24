@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"target": "ES5",
 		"declaration": true,
-		"removeComments": true,
+		"removeComments": false,
 		"forceConsistentCasingInFileNames": true,
 		"esModuleInterop": true,
 		"strict": true,
@@ -12,6 +12,6 @@
 		"noEmitOnError": true,
 		"outDir": "./dist"
 	},
-	"include": ["src", "tests"],
+	"include": ["src", "tests", "tsup.config.ts"],
 	"exclude": ["node_modules", "/dist"]
 }
