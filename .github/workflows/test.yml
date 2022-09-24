@@ -1,4 +1,4 @@
-name: Pret && Lint && Test
+name: Pret && Lint && Test && Build
 
 on:
   # Trigger the workflow on push or pull request,
@@ -28,3 +28,5 @@ jobs:
         run: yarn lint
       - name: Run tests
         run: yarn test
+      - name: Build the package
+        run: yarn build
