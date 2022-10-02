@@ -8,7 +8,7 @@ import { Quote } from './types'
 
 /* Syntax
 {
-  quote: 
+  quote:
   author:
   source?:
 }
@@ -261,4 +261,12 @@ export const quotes: Quote[] = [
 		author: `Mihaly Csikszentmihalyi`,
 		source: `Flow : The Psychology of Optimal Experience`,
 	}, // @anilseervi
+	{
+		quote: `You can get everything in life you want if you will just help enough other people get what they want.`,
+		author: `Zig Ziglar`,
+	},
+	{
+		quote: `Inspiration does exist, but it must find you working.`,
+		author: `Pablo Picasso`,
+	}
 ]
