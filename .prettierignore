@@ -1,2 +1,5 @@
-dist
-*.md
+# Ignore everything
+/*
+
+# Except this folder
+!/src
