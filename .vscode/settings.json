@@ -1,7 +1,4 @@
 {
 	"editor.formatOnSave": true,
-	"testing.automaticallyOpenPeekView": "never",
-	"githubPullRequests.ignoredPullRequestBranches": [
-		"main"
-	]
+	"testing.automaticallyOpenPeekView": "never"
 }
