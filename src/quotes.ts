@@ -270,14 +270,6 @@ export const quotes: Quote[] = [
 		author: `Pablo Picasso`,
 	}, // @Anish-Shobith
 	{
-		quote: `There is nothing impossible to they who will try.`,
-		author: `Alexander the Great`,
-	}, //pratheek-raghunath
-	{
-		quote: `You define your own life. Don’t let other people write your script.`,
-		author: `Oprah Winfrey`,
-	}, //pratheek-raghunath
-	{
 		quote: `You are never too old to set another goal or to dream a new dream.`,
 		author: `Malala Yousafzai`,
 	}, //pratheek-raghunath
