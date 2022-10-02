@@ -264,9 +264,9 @@ export const quotes: Quote[] = [
 	{
 		quote: `You can get everything in life you want if you will just help enough other people get what they want.`,
 		author: `Zig Ziglar`,
-	},
+	}, // @Anish-Shobith
 	{
 		quote: `Inspiration does exist, but it must find you working.`,
 		author: `Pablo Picasso`,
-	}
+	}, // @Anish-Shobith
 ]
