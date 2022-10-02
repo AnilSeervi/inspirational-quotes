@@ -269,4 +269,8 @@ export const quotes: Quote[] = [
 		quote: `Inspiration does exist, but it must find you working.`,
 		author: `Pablo Picasso`,
 	}, // @Anish-Shobith
+	{
+		quote: `You are never too old to set another goal or to dream a new dream.`,
+		author: `Malala Yousafzai`,
+	}, // @pratheek-raghunath
 ]
