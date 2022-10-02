@@ -272,5 +272,5 @@ export const quotes: Quote[] = [
 	{
 		quote: `You are never too old to set another goal or to dream a new dream.`,
 		author: `Malala Yousafzai`,
-	}, //pratheek-raghunath
+	}, // @pratheek-raghunath
 ]
