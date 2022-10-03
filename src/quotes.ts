@@ -270,7 +270,7 @@ export const quotes: Quote[] = [
 		author: `Pablo Picasso`,
 	}, // @Anish-Shobith
 	{
-		quote: `Don't settle for average. Bring your best to the moment. Then, whether it fails or succeeds, at least you know you gave all you had.`,
+		quote: `Don’t settle for average. Bring your best to the moment. Then, whether it fails or succeeds, at least you know you gave all you had.`,
 		author: `Angela Bassett`,
 	}, // @Anish-Shobith
 	{
@@ -278,15 +278,15 @@ export const quotes: Quote[] = [
 		author: `Isabel Allende`,
 	}, // @Anish-Shobith
 	{
-		quote: `Don't bunt. Aim out of the ballpark. Aim for the company of immortals.`,
+		quote: `Don’t bunt. Aim out of the ballpark. Aim for the company of immortals.`,
 		author: `David Ogilvy`,
 	}, // @Anish-Shobith
 	{
-		quote: `I have stood on a mountain of no's for one yes.`,
+		quote: `I have stood on a mountain of no’s for one yes.`,
 		author: `Barbara Elaine Smith`,
 	}, // @Anish-Shobith
 	{
-		quote: `If you believe something needs to exist, if it's something you want to use yourself, don't let anyone ever stop you from doing it.`,
+		quote: `If you believe something needs to exist, if it’s something you want to use yourself, don’t let anyone ever stop you from doing it.`,
 		author: `Tobias Lütke`,
 	}, // @Anish-Shobith
 	{
