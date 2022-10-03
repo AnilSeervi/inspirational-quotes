@@ -288,5 +288,8 @@ export const quotes: Quote[] = [
 	{
 		quote: `If you believe something needs to exist, if it's something you want to use yourself, don't let anyone ever stop you from doing it.`,
 		author: `Tobias Lütke`,
-	},
+	}, // @Anish-Shobith
+		quote: `You are never too old to set another goal or to dream a new dream.`,
+		author: `Malala Yousafzai`,
+	}, // @pratheek-raghunath
 ]
