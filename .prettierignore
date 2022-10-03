@@ -1,2 +1,12 @@
-dist
-*.md
+# Ignore everything
+/*
+
+# Except this folder
+!/src
+!/tests
+!/.github
+!tsconfig.json
+!package.json
+!tsup.config.js
+!.prettierrc
+!.eslintrc.json
