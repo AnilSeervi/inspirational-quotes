@@ -297,4 +297,8 @@ export const quotes: Quote[] = [
 		quote: `Give every day the chance to become the most beautiful day of your life.`,
 		author: `Mark Twain`,
 	}, // @sanju2728
+	{
+		quote: `You miss 100% of the shots you don't take.`,
+		author: `Wayne Gretsky, Michael Scott`,
+	}, // @zenbeam
 ]
