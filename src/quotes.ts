@@ -299,6 +299,6 @@ export const quotes: Quote[] = [
 	}, // @sanju2728
 	{
 		quote: `You miss 100% of the shots you don’t take.`,
-		author: `Wayne Gretsky, Michael Scott`,
+		author: `Wayne Gretzky, Michael Scott`,
 	}, // @zenbeam
 ]
