@@ -300,5 +300,5 @@ export const quotes: Quote[] = [
 	{
 		quote: `Every passing moment is a chance to turn your life around.`,
 		author: `Vanilla Sky`,
-	}, // @zenbeam
+	}, // @sunb3am
 ]
