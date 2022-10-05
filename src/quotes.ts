@@ -305,4 +305,12 @@ export const quotes: Quote[] = [
 		quote: `You miss 100% of the shots you don’t take.`,
 		author: `Wayne Gretzky, Michael Scott`,
 	}, // @zenbeam
+	{
+		quote: `Be yourself; everyone else is already taken.`,
+		author: `Oscar Wilde`,
+	}, // @linaseervi
+	{
+		quote: `There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.`,
+		author: `Albert Einstein`,
+	}, // @linaseervi
 ]
