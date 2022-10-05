@@ -248,8 +248,13 @@ export const quotes: Quote[] = [
 	},
 	{
 		quote: `Put your hand on a hot stove for a minute, and it seems like an hour. Sit with a pretty girl for an hour and it seems like a minute. That is relativity.`,
-		author: `Albert Einstein`,
+		author: `Paulo Coelho`,
 		source: `Ikigai : The Japanese Secret to a Long and Happy Life`,
+	},
+	{
+		quote: `It's the possibility of having a dream come true that makes life interesting.`,
+		author: `Albert Einstein`,
+		source: `The Alchemist`,
 	},
 	{
 		quote: `A happy man is too satisfied with the present to dwell on the future.`,
