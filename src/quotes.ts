@@ -305,4 +305,8 @@ export const quotes: Quote[] = [
 		quote: `You miss 100% of the shots you don’t take.`,
 		author: `Wayne Gretzky, Michael Scott`,
 	}, // @zenbeam
+	{
+		quote: `Be yourself; everyone else is already taken.`,
+		author: `Oscar Wilde`,
+	}, // @linaseervi
 ]
