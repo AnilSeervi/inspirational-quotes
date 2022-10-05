@@ -8,6 +8,8 @@ The `inspirational-quotes` packages' dependencies are installed using [Yarn](htt
 
 To develop and test the `inspirational-quotes` package:
 
+> *Note* that this repository is compatible with GitHub Codespaces as well as VS Code Remote Containers. Opening your cloned project with either of these options will perform these dev setup steps for you automatically!
+
 1. Clone the repo
 
 ```shell
