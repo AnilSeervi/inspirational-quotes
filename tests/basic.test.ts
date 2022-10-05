@@ -19,6 +19,13 @@ describe(`All Quotes`, () => {
 			assert(quote.quote.endsWith(`.`) || quote.quote.endsWith(`!`))
 		}
 	})
+
+	test(`Test 03 : Check for proper quote format`, () => {
+		const allQuotes = getAll()
+		for (const quote of allQuotes) {
+			assert(!quote.quote.includes(`'`))
+		}
+	})
 })
 
 describe(`Random Quote`, () => {
