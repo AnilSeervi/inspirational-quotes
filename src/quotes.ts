@@ -253,7 +253,7 @@ export const quotes: Quote[] = [
 	},
 	{
 		quote: `It's the possibility of having a dream come true that makes life interesting.`,
-		author: `Albert Einstein`,
+		author: `Paulo Coelho`,
 		source: `The Alchemist`,
 	},
 	{
