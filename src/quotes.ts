@@ -309,4 +309,8 @@ export const quotes: Quote[] = [
 		quote: `Be yourself; everyone else is already taken.`,
 		author: `Oscar Wilde`,
 	}, // @linaseervi
+	{
+		quote: `There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.`,
+		author: `Albert Einstein`,
+	}, // @linaseervi
 ]
