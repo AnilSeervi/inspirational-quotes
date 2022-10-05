@@ -1,0 +1,15 @@
+{
+	"name": "inspirational-quotes",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "quotes",
+	"workspaceFolder": "/workspace",
+	"settings": {},
+	"extensions": [
+		"dbaeumer.vscode-eslint",
+		"EditorConfig.EditorConfig",
+		"esbenp.prettier-vscode",
+		"ZixuanChen.vitest-explorer"
+	],
+	"postCreateCommand": "sudo chown -R node:node node_modules && yarn install --non-interactive",
+	"remoteUser": "node"
+}
