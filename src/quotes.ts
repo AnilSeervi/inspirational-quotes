@@ -313,4 +313,8 @@ export const quotes: Quote[] = [
 		quote: `There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.`,
 		author: `Albert Einstein`,
 	}, // @linaseervi
+	{
+		quote: `Be sure you put your feet in the right place, then stand firm.`,
+		author: `Abraham Lincoln`,
+	}, // @Vaishnav-NT
 ]
