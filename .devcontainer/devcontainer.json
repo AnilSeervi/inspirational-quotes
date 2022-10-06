@@ -3,7 +3,10 @@
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "quotes",
 	"workspaceFolder": "/workspace",
-	"settings": {},
+	"settings": {
+		"editor.formatOnSave": true,
+		"testing.automaticallyOpenPeekView": "never"
+	},
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"EditorConfig.EditorConfig",
