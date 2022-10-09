@@ -318,7 +318,7 @@ export const quotes: Quote[] = [
 		author: `Abraham Lincoln`,
 	}, // @Vaishnav-NT
 	{
-		quote: "We know what we are, but know not what we may be.",
-		author: "William Shakespeare",
-	} // @officialpiyush
+		quote: `We know what we are, but know not what we may be.`,
+		author: `William Shakespeare`,
+	}, // @officialpiyush
 ]
