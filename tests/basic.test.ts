@@ -26,6 +26,13 @@ describe(`All Quotes`, () => {
 			assert(!quote.quote.includes(`'`))
 		}
 	})
+
+	test(`Test 04 : Check for duplicate quotes`, () => {
+		const allQuotes = getAll()
+		const allQuoteStrings = allQuotes.map((quoteObj) => quoteObj.quote)
+		const uniqueQuoteStrings = [...new Set(allQuoteStrings)]
+		expect(allQuoteStrings).toEqual(uniqueQuoteStrings)
+	})
 })
 
 describe(`Random Quote`, () => {
