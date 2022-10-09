@@ -317,4 +317,8 @@ export const quotes: Quote[] = [
 		quote: `Be sure you put your feet in the right place, then stand firm.`,
 		author: `Abraham Lincoln`,
 	}, // @Vaishnav-NT
+	{
+		quote: "We know what we are, but know not what we may be.",
+		author: "William Shakespeare",
+	} // @officialpiyush
 ]
