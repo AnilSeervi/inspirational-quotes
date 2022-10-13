@@ -321,4 +321,8 @@ export const quotes: Quote[] = [
 		quote: `We know what we are, but know not what we may be.`,
 		author: `William Shakespeare`,
 	}, // @officialpiyush
+	{
+		quote: `Have the courage to follow your heart and intuition.`,
+		author: `Steve Jobs`,
+	}, // @MariyamMajeed
 ]
