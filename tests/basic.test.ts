@@ -20,7 +20,7 @@ describe(`All Quotes`, () => {
 
 	test(`Test 02: All Quotes end with a period`, () => {
 		for (const quote of allQuotes) {
-			assert(quote.quote.endsWith(`.`) || quote.quote.endsWith(`!`))
+			assert(quote.quote.endsWith(`.`) || quote.quote.endsWith(`!`) || quote.quote.endsWith(`?`))
 		}
 	})
 
