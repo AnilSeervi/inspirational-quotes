@@ -325,4 +325,8 @@ export const quotes: Quote[] = [
 		quote: `Have the courage to follow your heart and intuition.`,
 		author: `Steve Jobs`,
 	}, // @MariyamMajeed
+	{
+		quote: `Winners never quit and quitters never win.`,
+		author: `Vince Lombardi`,
+	}, //@shyam-3110
 ]
