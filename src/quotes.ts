@@ -328,5 +328,5 @@ export const quotes: Quote[] = [
 	{
 		quote: `Winners never quit and quitters never win.`,
 		author: `Vince Lombardi`,
-	}, //@shyam-3110
+	}, // @shyam-3110
 ]
