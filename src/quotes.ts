@@ -329,4 +329,9 @@ export const quotes: Quote[] = [
 		quote: `Winners never quit and quitters never win.`,
 		author: `Vince Lombardi`,
 	}, // @shyam-3110
+	{
+		quote: `Vocation is different from talent. You can have a vocation and not have talent, that is, you can be called and not know how to go.`,
+		author: `Clarice Lispector`,
+		source: `Discovering the world`,
+	}, // @patrickpsantos
 ]
